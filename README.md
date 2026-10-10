@@ -15,7 +15,7 @@
 ---
 
 ## 3. Demo Video
-[Watch MedSync Demo Video]()
+[Watch MedSync Demo Video](https://drive.google.com/file/d/1zpbiF1TlqIW6aqC0qj1npRWYN6sN_I3h/view?usp=sharing)
 
 > *Note: The demonstration video file is also placed in the repository in the [`demo/`](./demo) folder (see `demo/README.txt`).*
 
