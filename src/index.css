@@ -1,0 +1,54 @@
+/* MedSync Global Styles & Design System */
+
+:root {
+  --color-deep-teal: #0F766E;
+  --color-fresh-mint: #CCFBF1;
+  --color-pure-white: #FFFFFF;
+  --color-deep-slate: #1F2937;
+  --color-off-white: #F9FAFB;
+  --color-crimson: #DC2626;
+  --color-crimson-bg: #FEF2F2;
+  --color-border: #E5E7EB;
+  --color-text-muted: #6B7280;
+
+  --radius-card: 12px;
+  --radius-btn: 12px;
+  --radius-pill: 9999px;
+
+  --shadow-card: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  --shadow-hover: 0 6px 12px -2px rgba(0, 0, 0, 0.12);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  background-color: var(--color-off-white);
+  color: var(--color-deep-slate);
+  font-weight: 400;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4 {
+  font-weight: 600;
+  color: var(--color-deep-slate);
+}
+
+button {
+  font-family: inherit;
+  border: none;
+  cursor: pointer;
+  border-radius: var(--radius-btn);
+  transition: all 0.15s ease-in-out;
+}
+
+button:focus-visible {
+  outline: 2px solid var(--color-deep-teal);
+  outline-offset: 2px;
+}
