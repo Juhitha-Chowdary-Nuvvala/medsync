@@ -10,12 +10,12 @@
 ---
 
 ## 2. Live Demo Link
-[ADD LIVE LINK HERE](ADD_LIVE_LINK_HERE)
+[Open MedSync Web Application](https://medsync-eight-tau.vercel.app/)
 
 ---
 
 ## 3. Demo Video
-[ADD VIDEO LINK HERE](ADD_VIDEO_LINK_HERE)
+[Watch MedSync Demo Video]()
 
 > *Note: The demonstration video file is also placed in the repository in the [`demo/`](./demo) folder (see `demo/README.txt`).*
 
@@ -94,7 +94,7 @@ All demonstration data in MedSync is strictly **fictional**:
 - **Styling:** Vanilla CSS with modern responsive design tokens, pure inline SVGs (zero external font or icon libraries).
 - **Storage & Synchronization:** Browser `localStorage` with native cross-tab `window.addEventListener('storage', ...)`.
 - **Sample Chest X-Ray Asset:** Sample chest radiogram stored in `public/images/chest-xray.jpg` and root `chest-xray.jpg`.
-  - *Source and license:* ADD SOURCE HERE
+  - **Source:** [Google shared image link](https://share.google/BFUEFz0afErxmwlPI)
 - **External APIs:** **None.** MedSync uses zero external APIs or third-party web services; it runs completely self-contained in the browser.
 - **Transparency Notice:** Built with AI-assisted coding (Antigravity) for rapid prototyping and architecture.
 
@@ -149,7 +149,7 @@ If developed into a production clinical system, MedSync's architectural roadmap 
 ---
 
 ## 12. Team
-- **Team Member 1:** [ADD NAME 1 HERE]
-- **Team Member 2:** [ADD NAME 2 HERE]
-- **Team Member 3:** [ADD NAME 3 HERE]
-- **Team Member 4:** [ADD NAME 4 HERE]
+- **Team Member 1:** Juhitha Chowdary.N
+- **Team Member 2:** Yasaswini Gudi
+- **Team Member 3:** Siri Doki
+- **Team Member 4:** Vishnupriya Veeroju
