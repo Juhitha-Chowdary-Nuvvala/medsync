@@ -1,3 +1,1 @@
-# Demo Video Placeholder
-
-Place the project demonstration video file (`.mp4`, `.webm`, or link file) in this folder prior to final hackathon submission.
+https://drive.google.com/file/d/1zpbiF1TlqIW6aqC0qj1npRWYN6sN_I3h/view?usp=sharing
